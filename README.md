@@ -1,4 +1,4 @@
-# NAT Implementation (COMP3331)
+# NAT Implementation
 
 ## Description
 Implemented a **Network Address Port Translation (NAPT) system in Python**, simulating a NAT router between an internal network (`10.0.0.0/8`) and the external network.  
