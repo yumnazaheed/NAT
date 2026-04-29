@@ -1,4 +1,4 @@
-# NAT Implementation (COMP3331)
+# NAT Implementation
 
 ## Overview
 This project implements a **Network Address Port Translation (NAPT)** device in Python.  
